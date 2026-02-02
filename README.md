@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **• Data analytics • Finance & business insights • Excel | MS-Word | Tableau | SEO**
 
-- 📫 How to reach me **https://www.linkedin.com/in/subhashree**
+- 📫 How to reach me **https://www.linkedin.com/in/subhashree-63a574304**
 
 - 📄 Know about my experiences  * Coordinated with Doctors, nurses, and supportive staff to maintain high quality patient care.
                                 * Supervised hospital cleaning, safety and maintenance activities to meet health standards.
