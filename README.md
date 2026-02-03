@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/subhashree-63a574304**
 
-- 📄 Know about my experiences
--    Arshi Fertility And IVF Reesearch Institute} 
+- 📄 Know about my experiences ** Arshi Fertility And IVF Reesearch Institute ** 
 -    { * Coordinated with Doctors, nurses, and supportive staff to maintain high quality patient care.}
      { * Supervised hospital cleaning, safety and maintenance activities to meet health standards.}
      { * Supported recruitment and training of hospital staff for better services delivery.}
