@@ -1,9 +1,8 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Subhasree</h1>
-<h3 align="center">A passionate Business Data Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🌱 I’m currently learning ** SQL **
 
 - 👯 I’m looking to collaborate on **• Data analysis & visualization • Business and financial analytics use cases projects • Excel and Tableau-based dashboards**
 
