@@ -13,14 +13,12 @@
 - 📫 How to reach me **https://www.linkedin.com/in/subhashree-63a574304**
 
 - 📄 Know about my experiences
--  \resumeProjectHeading
-          {\textbf{Arshi Fertility And IVF Reesearch Institute} }
--  \resumeItemListStart
--   \resumeItem { * Coordinated with Doctors, nurses, and supportive staff to maintain high quality patient care.}
-    \resumeItem { * Supervised hospital cleaning, safety and maintenance activities to meet health standards.}
-    resumeItem { * Supported recruitment and training of hospital staff for better services delivery.}
-    resumeItem {*  Addressed patient queries and complaints to ensure satisfaction and trust in hospital services.}
-    \resumeItemListEnd
+-    Arshi Fertility And IVF Reesearch Institute} 
+-    { * Coordinated with Doctors, nurses, and supportive staff to maintain high quality patient care.}
+     { * Supervised hospital cleaning, safety and maintenance activities to meet health standards.}
+     { * Supported recruitment and training of hospital staff for better services delivery.}
+     {*  Addressed patient queries and complaints to ensure satisfaction and trust in hospital services.}
+
 
 - ⚡ Fun fact **I started learning data analytics out of curiosity… now I enjoy it. It feels like solving a puzzle 🧩**
 
